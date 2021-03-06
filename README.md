@@ -9,3 +9,7 @@ This repository demos an Angular SPA and an ASP.NET Core web API application usi
 - **Back-end** ([https://localhost:5001](https://localhost:5001))
 
   ![web api](./localhost_5001.png)
+
+<p align="center" width="100%">
+    <img width="33%" src="https://profile-counter.glitch.me/muratbekler/count.svg"> 
+</p>
