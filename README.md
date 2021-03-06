@@ -10,6 +10,4 @@ This repository demos an Angular SPA and an ASP.NET Core web API application usi
 
   ![web api](./localhost_5001.png)
 
-<p align="center" width="100%">
-    <img width="33%" src="https://profile-counter.glitch.me/muratbekler/count.svg"> 
-</p>
+[![HitCount](http://hits.dwyl.com/muratbekler/JwtAuthDemo.svg)](http://hits.dwyl.com/muratbekler/JwtAuthDemo)
